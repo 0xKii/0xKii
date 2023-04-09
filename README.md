@@ -14,7 +14,7 @@
 
 
 
-- ✉️ How to reach me cryptohuntid@gmail.com@gmail.com
+- ✉️ How to reach me cryptohuntid@gmail.com
 
 
 ## 🌐 Socials:
