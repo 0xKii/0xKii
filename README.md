@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="https://github.com/sychonix/contoh/blob/main/IMG_20230410_034622_392.jpg"
+  src="photo_2023-04-10_07-42-50.jpg."
   style="display: inline-block; margin: 0 auto; max-width: 300px">
     <h2><i>0x7Ki </i></h2>I'm newbie
 <div align="center">
