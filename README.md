@@ -14,7 +14,7 @@
 
 
 
-- ✉️ How to reach me cryptohuntid@gmail.com
+- ✉️ How to reach me cryptohuntid@gmail.com@gmail.com
 
 
 ## 🌐 Socials:
@@ -25,10 +25,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=0xKii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xKii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+!
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=0x7Ki)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<p align="center">
+<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=0xKii&icon=0&color=0)](https://visitcount.itsvg.in)
